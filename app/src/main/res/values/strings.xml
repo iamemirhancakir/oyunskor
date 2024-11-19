@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">skoroyun</string>
+    <string name="b_start">BAŞLA</string>
+    <string name="b_main">anabuton</string>
+    <string name="highest_score">EN YÜKSEK SKOR: %d ms</string>
+    <string name="stop">DURDUR</string>
+</resources>

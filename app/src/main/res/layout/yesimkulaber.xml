@@ -1,0 +1,37 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".yesimkulaber">
+
+    <TextView
+        android:id="@+id/tv_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text=""
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/b_main"
+        android:layout_width="match_parent"
+        android:layout_height="659dp"
+        android:layout_below="@id/tv_info"
+        android:layout_marginTop="-37dp"
+        android:background="@color/red"
+        android:contentDescription="@string/b_main"
+        android:text=""
+        android:textColor="#ffffff"
+        android:textSize="64sp" />
+
+    <Button
+        android:id="@+id/b_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/b_start" />
+</RelativeLayout>

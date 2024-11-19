@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="b_start" type="id" />
+    <item name="b_main" type="id" />
+    <item name="tv_info" type="id" />
+    <item name="main" type="id" />
+</resources>
